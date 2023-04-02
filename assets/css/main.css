@@ -20,7 +20,7 @@
 /* Colors */
 :root {
   --color-default: #212529;
-  --color-primary: #d38c00;
+  --color-primary: #ef9f00;
   --color-secondary: #37373f;
 }
 
@@ -43,7 +43,7 @@ a {
 }
 
 a:hover {
-  color: #ec2727;
+  color: #f5a700;
   text-decoration: none;
 }
 
@@ -178,7 +178,7 @@ section {
 }
 
 .scroll-top:hover {
-  background: #ec2727;
+  background: #ffae00;
   color: #fff;
 }
 
@@ -294,7 +294,7 @@ section {
 .header .btn-book-a-table:hover,
 .header .btn-book-a-table:focus:hover {
   color: #fff;
-  background: rgba(206, 18, 18, 0.8);
+  background: rgb(255, 166, 0);
 }
 
 section {
